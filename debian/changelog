@@ -1,4 +1,4 @@
-consul (0.4.1-2~lucid1~ppa1) lucid; urgency=low
+consul (0.4.1-1~lucid1~ppa1) lucid; urgency=low
 
   * No-change build for Lucid.
 

@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Mon, 27 Oct 2014 21:54:51 -0700
+Source: consul
+Binary: consul consul-web-ui
+Architecture: source
+Version: 0.4.1-1~lucid1~ppa1
+Distribution: lucid
+Urgency: low
+Maintainer: Andrea Bernardo Ciddio <bcandrea@gmail.com>
+Changed-By: W. Andrew Loe III (loe) <loe@onehub.com>
+Description: 
+ consul     - A tool for discovering and configuring services - main package
+ consul-web-ui - A tool for discovering and configuring services - web user interf
+Changes: 
+ consul (0.4.1-1~lucid1~ppa1) lucid; urgency=low
+ .
+   * No-change build for Lucid.
+Checksums-Sha1: 
+ bde52e35902207e2a0bab4ab92c286abfb343667 1838 consul_0.4.1-1~lucid1~ppa1.dsc
+ 334d6e89ea07cd1cc560690fb2b164acb873c264 46300145 consul_0.4.1.orig.tar.gz
+ 22043986062a293e983ee92d7f4382ac7242f0e2 3376 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+Checksums-Sha256: 
+ c90b63c88153367637115a665d111206f00ea705b324f3228bb4379519bd3eea 1838 consul_0.4.1-1~lucid1~ppa1.dsc
+ 0b61cb8b03f51d49e1f7c7ba83f1585db36d37e820625312ccbd62e849b6666d 46300145 consul_0.4.1.orig.tar.gz
+ cecf69bdf535c342e29820312317f9dfef2fe6f76d63dedb492ef7c8cc199f83 3376 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+Files: 
+ a36c9ca9f95547bb777c196d33a1e0e9 1838 utils optional consul_0.4.1-1~lucid1~ppa1.dsc
+ c31652c99309b84e2d3684b27213ee90 46300145 utils optional consul_0.4.1.orig.tar.gz
+ b7f3782c0f2a2558e584d9d17c63ac5e 3376 utils optional consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iQIcBAEBAgAGBQJUT9A1AAoJEGqvVHTGzN1u2tgP/05wr+BYcnGafCl5SAC9Tk4o
+cHcDO6MbKO2e8ylsa7j7bQi6h79j37J2vGletzDxV0AecmzOQis0MfNW3+INfJIg
+p4XVFKPeQ0F9CruOV4us0pAE9vhuSoKlMTQ0ycF5NfKw86yw44UgxcmadXFA/crc
+KNv+hDab7D2WcD1+oFcPz+ARyZQEJXLfh3K8sEMSvmE8w/uVV1UOQ5Uv/dOLsKfZ
+CoUYX+naoIoxTp33LZsjMj5uFsER61rAuJ9u/79VFG37V0aHNk2jjUR2NuOStSzc
+waZ64+qD+Ws9vZ58XNDgdlKvLwWrHHsNrKGvWb+lmUEjvXqBOjNEcEhiARPcWlQ9
+2SdW3/A2yak8h4C5ikt4SCaGVCKwKzbtnaI/p7c5FGNj+ta188Vp9kQey9QhaxWM
+Szk4r0bGoKYgTXaNJjfKB+3iI998lgJmETy6/9gsFCC7N1XTd2c+feM0iw7QPZiC
+6ifqu/L0ZUf8ILFKipLvx6nwnUNoRGwGVdOHN98Xv14bm7xqVAJ8ERq0ViAenkck
+AR3OLYXHRQyRCD2DEsnsEvEs2UEpU5NysNn8o53RZ7KbaLc2f1KmMsQgGuGInLgZ
+/EKSTP4wKGCusejnjxwNF7ytsTWoHpJ7UeKz4o+MNkojNE9rJ/VssTdWwWYc1qXt
+kCMhyeyM6lWW4mq5INeA
+=t7op
+-----END PGP SIGNATURE-----

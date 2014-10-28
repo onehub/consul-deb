@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Mon, 27 Oct 2014 21:54:51 -0700
+Source: consul
+Binary: consul consul-web-ui
+Architecture: source amd64 all
+Version: 0.4.1-1~lucid1~ppa1
+Distribution: lucid
+Urgency: low
+Maintainer: Andrea Bernardo Ciddio <bcandrea@gmail.com>
+Changed-By: W. Andrew Loe III (loe) <loe@onehub.com>
+Description: 
+ consul     - A tool for discovering and configuring services - main package
+ consul-web-ui - A tool for discovering and configuring services - web user interf
+Changes: 
+ consul (0.4.1-1~lucid1~ppa1) lucid; urgency=low
+ .
+   * No-change build for Lucid.
+Checksums-Sha1: 
+ 505ecfe4403b3382aadd017ce6d644c7be272002 954 consul_0.4.1-1~lucid1~ppa1.dsc
+ 334d6e89ea07cd1cc560690fb2b164acb873c264 46300145 consul_0.4.1.orig.tar.gz
+ 9d02de7dceec66dbf052ccbe1b838619dc3cabd2 3378 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ bc5b5240f91a36ef8965232b2dbedd02a58b8653 3134564 consul_0.4.1-1~lucid1~ppa1_amd64.deb
+ 78f65ad95ddf128a0042d39f2c9dd3e50587a10a 3854 consul-web-ui_0.4.1-1~lucid1~ppa1_all.deb
+Checksums-Sha256: 
+ af76a0fef2404afbd1b6fa706b3eb8ae06739e13de4f54bf45a7021ff3b54e0d 954 consul_0.4.1-1~lucid1~ppa1.dsc
+ 0b61cb8b03f51d49e1f7c7ba83f1585db36d37e820625312ccbd62e849b6666d 46300145 consul_0.4.1.orig.tar.gz
+ a119ca3c7c16fd5bd54e075fe539dcfc043715a60cff8e55e605295725c6dc86 3378 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ 322efab2e23bd7a39c8e05429405162c8c79015767dbba7d027f17a7d474ffac 3134564 consul_0.4.1-1~lucid1~ppa1_amd64.deb
+ 4a8bae5c479a814e18f9bfeb8effb43b17d37293645457f3e15b253a4e5ed80b 3854 consul-web-ui_0.4.1-1~lucid1~ppa1_all.deb
+Files: 
+ c41f4fd3db653de86dd98dfae38e7a4a 954 utils optional consul_0.4.1-1~lucid1~ppa1.dsc
+ c31652c99309b84e2d3684b27213ee90 46300145 utils optional consul_0.4.1.orig.tar.gz
+ 184a3c4c671f11025860b85889b52cf9 3378 utils optional consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ 337f036eec5dea3615ed1d74ca17f3af 3134564 utils optional consul_0.4.1-1~lucid1~ppa1_amd64.deb
+ e05330e00fa3f95582860b6346561944 3854 utils optional consul-web-ui_0.4.1-1~lucid1~ppa1_all.deb
