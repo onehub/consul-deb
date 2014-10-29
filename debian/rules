@@ -14,6 +14,7 @@ override_dh_auto_clean:
 
 override_dh_auto_build:
 	export GOPATH=$(CURDIR) && $(MAKE) -C src/github.com/hashicorp/consul
+	$(MAKE) dist -C src/github.com/hashicorp/consul/ui
 
 override_dh_auto_install:
 	mkdir -p usr/bin
