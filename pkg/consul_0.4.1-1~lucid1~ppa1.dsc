@@ -13,29 +13,29 @@ Vcs-Browser: https://github.com/hashicorp/consul
 Vcs-Git: https://github.com/hashicorp/consul.git
 Build-Depends: debhelper (>= 7), golang-go (>= 2:1.2), git-core
 Checksums-Sha1: 
- 334d6e89ea07cd1cc560690fb2b164acb873c264 46300145 consul_0.4.1.orig.tar.gz
- 22043986062a293e983ee92d7f4382ac7242f0e2 3376 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ b7812e295908dc5c34d86feb282a4a41fb9e52fc 46297853 consul_0.4.1.orig.tar.gz
+ 1a1d7174d87ad62cb0e8707c97ed4980799b8dd5 3388 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
 Checksums-Sha256: 
- 0b61cb8b03f51d49e1f7c7ba83f1585db36d37e820625312ccbd62e849b6666d 46300145 consul_0.4.1.orig.tar.gz
- cecf69bdf535c342e29820312317f9dfef2fe6f76d63dedb492ef7c8cc199f83 3376 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ 5efb2efb0a4533d1d5770bb4b0bf1bdb85ef90c81394b0ca34114106a97afba1 46297853 consul_0.4.1.orig.tar.gz
+ ede76fd79020f33f51c8f8b6b6abca1cfd629c246256eea0f1f3558e74f9811a 3388 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
 Files: 
- c31652c99309b84e2d3684b27213ee90 46300145 consul_0.4.1.orig.tar.gz
- b7f3782c0f2a2558e584d9d17c63ac5e 3376 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ eed12dd59fa1023c5f0dd5f178d33e63 46297853 consul_0.4.1.orig.tar.gz
+ 9556bab4d94a6d5d4201e699abaadabe 3388 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iQIcBAEBAgAGBQJUT9AyAAoJEGqvVHTGzN1u+XMQAKFymWoJQLlGRJunNqCxGMEM
-cyYBMT6OZOtoLDT4wsKs6Ooa093STZWBjP4x+sOPLxepR1tt3x8umKsn5nQe5qHG
-X9bS2Pcml0diak5nzdjnXNSVUSUA5TC+DePUY5d45+r9B08T747DJ7j9lwXYKXQc
-TnQEot47wngEIDFSM8ucXwyMnmmpc5d04/5fnJufZtCHvWjSa0pyiUuYeJCZ/h6P
-dKVhp9j53pobBrGqf6okavlHeixvTUkQlyQGvlmFHWvD4keCPIbIpbzszAR0aE2Y
-LdMvaN4go3eOLPE0Tk4jSM1wsk/4ulX0N0daFHHhEFIGyUrFuqi5V8HTGXe4ee1V
-2UgQ/+sIm+3OsIzUosDh3+0lIJ/bld/p992RF7jxgA7dFyezUA+R1wGAW2iuSXPD
-sSKw3edJMCXSuIMJou02X2gzariyjeKxn2VF3j5w2FiX5HMpiPJMYw0Rrm4rKA8T
-qHH9NCwsMIfhWVzNz4JcbX82O9dfMtxlW73Q1dktxhgtA0kfw+Dz4VukPMip+5RF
-c/g/+0sB88a3maSEzFb5uzY6evM6C5rcDkL25UOt+LCHGvAVhQr2ydMCcpgExGzI
-z/p/DwJ5Vw2hKirhtIytZLlzk4BzuRP0wYfUJ+CL6OkIzlHfGwSZVkPp4N6CpHAr
-NHcwnJpawZCngtD0Gfdt
-=HQUg
+iQIcBAEBAgAGBQJUUEhEAAoJEGqvVHTGzN1uLrcP/04q319KzjsKJN1CtK8uIdla
+Jo5RNkXvOCh7tR502P52Og3abTEAnRpGTG7lx3C9VBzhTfTKHjI5yqObav3sd82I
+7YmO7KbJKjo1cV3pZRgL0c4ItxxMyGX1qqUX5kzMsvmnhd8EnWeTKRXPW7Tftlc4
+FyboI+CoAPHebOoHSrQFpa8SAdvkaMyAIAx0jA2mAQ3ldc1AqtseS2ncwbNm4a3+
++mDCWr6J8P1yCa9hHp3qqO42X66k8eqovidOGtkJTdr8UE3lOwk9t9IwPxpshNH5
+gpp+prbNqGDPuseu0EZXE6/4lJhJfX9KnkJ3tzT+HAuMBJxKUvtw+B06x25Mv2VM
+1prUClWD850cWtEIv6a8z3tUjZ7P2Qc8Ont+hWoCSbdUMuDEDBXwFLVOLCLAnRgG
+ieYOCsruxhbr+1dGG2RVix/vZeUUaZYnNRYYSIUOMy/phjchJIi+b4nqvBAQKWAH
+BvwVOWOwsYW4RFz3EQYxFhNfu+1vfcf9+ertIqbrNRHT5qU1YIE1wBbqO4VaPIoD
+cpc5ZgLwOmPDxt66GPxKY1YS8VLPfF+UOiMWTdWhXQV0E2A3jiXFg36591AZPu2B
+VDMNBgzZ948Mv+nFcUcTLuN/aUb2XXO8+xaBRnWAq6fTwACYTOcEq4zPQc/hi4el
+824BfpZsuXXtpqbrScJX
+=7NLE
 -----END PGP SIGNATURE-----

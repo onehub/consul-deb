@@ -16,20 +16,20 @@ Changes:
  .
    * No-change build for Lucid.
 Checksums-Sha1: 
- 505ecfe4403b3382aadd017ce6d644c7be272002 954 consul_0.4.1-1~lucid1~ppa1.dsc
- 334d6e89ea07cd1cc560690fb2b164acb873c264 46300145 consul_0.4.1.orig.tar.gz
- 9d02de7dceec66dbf052ccbe1b838619dc3cabd2 3378 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
- bc5b5240f91a36ef8965232b2dbedd02a58b8653 3134564 consul_0.4.1-1~lucid1~ppa1_amd64.deb
- 78f65ad95ddf128a0042d39f2c9dd3e50587a10a 3854 consul-web-ui_0.4.1-1~lucid1~ppa1_all.deb
+ 4c18748482163879f226c1b7a2d3eccbc3c503d8 954 consul_0.4.1-1~lucid1~ppa1.dsc
+ b7812e295908dc5c34d86feb282a4a41fb9e52fc 46297853 consul_0.4.1.orig.tar.gz
+ a36cfe3d4d50d61c3789e41fda561e79d957b092 3391 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ 762fa83a9686ddbd0d2c645eb261dff97b2b3791 3134578 consul_0.4.1-1~lucid1~ppa1_amd64.deb
+ 0a5f52d08399b2e1d19336565c74a2f5b9fc5d79 255040 consul-web-ui_0.4.1-1~lucid1~ppa1_all.deb
 Checksums-Sha256: 
- af76a0fef2404afbd1b6fa706b3eb8ae06739e13de4f54bf45a7021ff3b54e0d 954 consul_0.4.1-1~lucid1~ppa1.dsc
- 0b61cb8b03f51d49e1f7c7ba83f1585db36d37e820625312ccbd62e849b6666d 46300145 consul_0.4.1.orig.tar.gz
- a119ca3c7c16fd5bd54e075fe539dcfc043715a60cff8e55e605295725c6dc86 3378 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
- 322efab2e23bd7a39c8e05429405162c8c79015767dbba7d027f17a7d474ffac 3134564 consul_0.4.1-1~lucid1~ppa1_amd64.deb
- 4a8bae5c479a814e18f9bfeb8effb43b17d37293645457f3e15b253a4e5ed80b 3854 consul-web-ui_0.4.1-1~lucid1~ppa1_all.deb
+ ac17db3665ee076f4ddd3153ff99544676f30894f1dde819b58f0abdda00bf62 954 consul_0.4.1-1~lucid1~ppa1.dsc
+ 5efb2efb0a4533d1d5770bb4b0bf1bdb85ef90c81394b0ca34114106a97afba1 46297853 consul_0.4.1.orig.tar.gz
+ d726c7d572099d5159f4ac1e637eeefc5d289557d7605f6e44548b04f53d21fc 3391 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ acb70d5eb99b8ccb8ccb6acf320b80f0ffcf8f8ec61400d8ca974cbfebad1185 3134578 consul_0.4.1-1~lucid1~ppa1_amd64.deb
+ b077a99ffc67030202809ecfd66931136539cd3b7616a8dfd0b4c01507126b2b 255040 consul-web-ui_0.4.1-1~lucid1~ppa1_all.deb
 Files: 
- c41f4fd3db653de86dd98dfae38e7a4a 954 utils optional consul_0.4.1-1~lucid1~ppa1.dsc
- c31652c99309b84e2d3684b27213ee90 46300145 utils optional consul_0.4.1.orig.tar.gz
- 184a3c4c671f11025860b85889b52cf9 3378 utils optional consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
- 337f036eec5dea3615ed1d74ca17f3af 3134564 utils optional consul_0.4.1-1~lucid1~ppa1_amd64.deb
- e05330e00fa3f95582860b6346561944 3854 utils optional consul-web-ui_0.4.1-1~lucid1~ppa1_all.deb
+ 1f49d7497f48991a7108e98ba8fe15dc 954 utils optional consul_0.4.1-1~lucid1~ppa1.dsc
+ eed12dd59fa1023c5f0dd5f178d33e63 46297853 utils optional consul_0.4.1.orig.tar.gz
+ 9145df28c58990a227adaad19e9a9633 3391 utils optional consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ 0e55838ce83aa34cbb5cc1e2467d85ee 3134578 utils optional consul_0.4.1-1~lucid1~ppa1_amd64.deb
+ 2a2b47e53945bcda97bcc0b378f471b6 255040 utils optional consul-web-ui_0.4.1-1~lucid1~ppa1_all.deb

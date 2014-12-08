@@ -19,32 +19,32 @@ Changes:
  .
    * No-change build for Lucid.
 Checksums-Sha1: 
- bde52e35902207e2a0bab4ab92c286abfb343667 1838 consul_0.4.1-1~lucid1~ppa1.dsc
- 334d6e89ea07cd1cc560690fb2b164acb873c264 46300145 consul_0.4.1.orig.tar.gz
- 22043986062a293e983ee92d7f4382ac7242f0e2 3376 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ dfd844a1122868e98f3da8822b9fdb77d97bfe21 1838 consul_0.4.1-1~lucid1~ppa1.dsc
+ b7812e295908dc5c34d86feb282a4a41fb9e52fc 46297853 consul_0.4.1.orig.tar.gz
+ 1a1d7174d87ad62cb0e8707c97ed4980799b8dd5 3388 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
 Checksums-Sha256: 
- c90b63c88153367637115a665d111206f00ea705b324f3228bb4379519bd3eea 1838 consul_0.4.1-1~lucid1~ppa1.dsc
- 0b61cb8b03f51d49e1f7c7ba83f1585db36d37e820625312ccbd62e849b6666d 46300145 consul_0.4.1.orig.tar.gz
- cecf69bdf535c342e29820312317f9dfef2fe6f76d63dedb492ef7c8cc199f83 3376 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ 7715b99df2c4fc7edfab2c37c5548fa932392b0b69df9b15a90e73d87f7493a9 1838 consul_0.4.1-1~lucid1~ppa1.dsc
+ 5efb2efb0a4533d1d5770bb4b0bf1bdb85ef90c81394b0ca34114106a97afba1 46297853 consul_0.4.1.orig.tar.gz
+ ede76fd79020f33f51c8f8b6b6abca1cfd629c246256eea0f1f3558e74f9811a 3388 consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
 Files: 
- a36c9ca9f95547bb777c196d33a1e0e9 1838 utils optional consul_0.4.1-1~lucid1~ppa1.dsc
- c31652c99309b84e2d3684b27213ee90 46300145 utils optional consul_0.4.1.orig.tar.gz
- b7f3782c0f2a2558e584d9d17c63ac5e 3376 utils optional consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
+ 21f6f2fd7e04d32e39427bb3d4c78939 1838 utils optional consul_0.4.1-1~lucid1~ppa1.dsc
+ eed12dd59fa1023c5f0dd5f178d33e63 46297853 utils optional consul_0.4.1.orig.tar.gz
+ 9556bab4d94a6d5d4201e699abaadabe 3388 utils optional consul_0.4.1-1~lucid1~ppa1.debian.tar.gz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iQIcBAEBAgAGBQJUT9A1AAoJEGqvVHTGzN1u2tgP/05wr+BYcnGafCl5SAC9Tk4o
-cHcDO6MbKO2e8ylsa7j7bQi6h79j37J2vGletzDxV0AecmzOQis0MfNW3+INfJIg
-p4XVFKPeQ0F9CruOV4us0pAE9vhuSoKlMTQ0ycF5NfKw86yw44UgxcmadXFA/crc
-KNv+hDab7D2WcD1+oFcPz+ARyZQEJXLfh3K8sEMSvmE8w/uVV1UOQ5Uv/dOLsKfZ
-CoUYX+naoIoxTp33LZsjMj5uFsER61rAuJ9u/79VFG37V0aHNk2jjUR2NuOStSzc
-waZ64+qD+Ws9vZ58XNDgdlKvLwWrHHsNrKGvWb+lmUEjvXqBOjNEcEhiARPcWlQ9
-2SdW3/A2yak8h4C5ikt4SCaGVCKwKzbtnaI/p7c5FGNj+ta188Vp9kQey9QhaxWM
-Szk4r0bGoKYgTXaNJjfKB+3iI998lgJmETy6/9gsFCC7N1XTd2c+feM0iw7QPZiC
-6ifqu/L0ZUf8ILFKipLvx6nwnUNoRGwGVdOHN98Xv14bm7xqVAJ8ERq0ViAenkck
-AR3OLYXHRQyRCD2DEsnsEvEs2UEpU5NysNn8o53RZ7KbaLc2f1KmMsQgGuGInLgZ
-/EKSTP4wKGCusejnjxwNF7ytsTWoHpJ7UeKz4o+MNkojNE9rJ/VssTdWwWYc1qXt
-kCMhyeyM6lWW4mq5INeA
-=t7op
+iQIcBAEBAgAGBQJUUEhRAAoJEGqvVHTGzN1uI9IP/0qW35dFrkvAxAyJo0fPUVcg
+wJrCDtZnHt8xJuzcjCWxHDjz1glnWbpBGIbL3nm339SwR6MS9zH7yFp9cGNicRnr
+o59IBgvYLxEtUe7ZxhqBm5CdvGVW7tBWwOQJFTOFQq/WoaNKJevZgPY1SWMdLveu
+XnnKUuUZvVk2dC/GNn5LOg3qtP5VHB8kB5L2X29kJPVHzTQ9turhZVxXWI2BDwB1
+P9qujEn0+ARwO03Kla/SMKNiu6WnAGKx68cUSpYO6bOgJLDMUsuh8IrCkPxq+uI+
+Nl42mwN0PknMkINWRIPeWr+s5EZK+1rrFRJky2x5zuOyIzWPgkFiimXDTFIAtvpN
+CFbYRku1H6j6R897uVswz4eo24zxED0jvDZT1Bb2hkprdAo2r5XpWDwlKSc2Bq8X
+ebQ331czja3BcpbKMJO3TsCqeDZyID0vo3x3TZ1z6zoOZ6s1ZSEBP7skfhmeInfe
+RsARB17U8dlAKXVL9nIiRiiHejmYqJilVl4rhMGdmy9/TUd4hJi4LuNEajJc9Rmy
+B4TVJrTukPp8b4mhd/KxF+nbmyypXoj3A/NH4pI2887RUS6EnujR8h7OlPFFqjfw
+2be+gv3/mOPn85354lk2b+1hAxH3d/cp5SvXp5ZcIXgpbOHFzy1IRa5xS8FGBJXW
+xQ5hxAFR4xaJNRbKPyv+
+=ip01
 -----END PGP SIGNATURE-----
